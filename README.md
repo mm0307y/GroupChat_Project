@@ -91,3 +91,6 @@ https://f-lab.kr/insight/understanding-git-and-github-collaboration
 - **확장성**: 추후 파일 전송, 사용자 프로필 설정, 방 만들기 등의 추가 기능을 고려.
 
 ---
+
+![image](https://github.com/user-attachments/assets/635831ff-beae-4482-b983-0352eb4f0fd2)
+
