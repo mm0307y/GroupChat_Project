@@ -1,5 +1,6 @@
 # GroupChat_Project
 Group Chat Project for portfolio
+https://f-lab.kr/insight/understanding-git-and-github-collaboration
 
 ## 단체 채팅 프로그램 개발 계획서
 
