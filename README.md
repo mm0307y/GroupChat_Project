@@ -1,6 +1,10 @@
 # GroupChat_Project
 Group Chat Project for portfolio
+
+
+#### git을 통한 협업 관련 Tool 링크
 https://f-lab.kr/insight/understanding-git-and-github-collaboration
+https://gmlwjd9405.github.io/2018/05/11/types-of-git-branch.html
 
 ## 단체 채팅 프로그램 개발 계획서
 
@@ -91,6 +95,4 @@ https://f-lab.kr/insight/understanding-git-and-github-collaboration
 - **확장성**: 추후 파일 전송, 사용자 프로필 설정, 방 만들기 등의 추가 기능을 고려.
 
 ---
-
-![image](https://github.com/user-attachments/assets/635831ff-beae-4482-b983-0352eb4f0fd2)
 
